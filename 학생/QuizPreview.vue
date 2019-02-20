@@ -1,4 +1,4 @@
-// 
+// 문제-미리보기
 <template>
   <div class="quiz-item" style="background: #e5e9f2">
     <template v-if="data.type === 0">
