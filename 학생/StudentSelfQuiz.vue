@@ -1,4 +1,4 @@
-// 문제출제서식+문제수정
+// 출제리스트+문제수정
 <template>
   <div>
     <div v-if="!quizForm">
